@@ -2,7 +2,7 @@
 - 👀 I’m interested in DATA ANALYST
 - 🌱 I’m currently learning DATA ANALYST FROM SKILLCIRCLE
 - 💞️ I’m looking to collaborate on DATA ANALYST
-- 📫 How to reach me ...@priyankarohewal@gmial.com
+- 📫 How to reach me ...@priyankarohewal@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
