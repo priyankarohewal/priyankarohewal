@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @priyankarohewal
 - 👀 I’m interested in DATA ANALYST
-- 🌱 I’m currently learning DATA SCIENCE FROM SKILLCIRCLE
-- 💞️ I’m looking to collaborate on DATA SCIENCE 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning DATA ANALYST FROM SKILLCIRCLE
+- 💞️ I’m looking to collaborate on DATA ANALYST
+- 📫 How to reach me ...@priyankarohewal@gmial.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
